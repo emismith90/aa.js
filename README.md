@@ -1,10 +1,10 @@
 ## What is aa.js
 
-Truly an 'atomic' javascript application.
+Truly an 'atomic' (2.85 KB) javascript application.
 
 ## What is inside the box
 
-- Event aggregator by injecting ['$aquarium'] (aquarium.js)
+- Event aggregator by injecting ['$aquarium'] ([aquarium.js](https://github.com/emismith90/aquarium.js))
 - Dependency injection by injecting ['$injector']
 
 ## Usage
