@@ -4,8 +4,8 @@ Truly an 'atomic' javascript application.
 
 ## What is inside the box
 
-- Event aggregator by $aquarium (aquarium.js)
-- Dependency injection $injector
+- Event aggregator by injecting ['$aquarium'] (aquarium.js)
+- Dependency injection by injecting ['$injector']
 
 ## Usage
 
