@@ -7,6 +7,10 @@ Truly an 'atomic' (2.85 KB) javascript application framework.
 - Event aggregator by injecting ['$aquarium'] ([aquarium.js](https://github.com/emismith90/aquarium.js))
 - Dependency injection by default and programatically by injecting ['$injector'] 
 
+## Installation
+
+> bower install aa.js
+
 ## Usage
 
 ```javascript
